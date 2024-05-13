@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 10 Emplois STEM</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .job {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #f0f0f0;
+        }
+        .job h2 {
+            margin-top: 0;
+            color: #555;
+        }
+        .job p {
+            margin: 5px 0;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Top 10 Emplois STEM</h1>
+        <div class="job">
+            <h2>Développeur/Ingénieur Logiciel</h2>
+            <p>Préférences de personnalité : Analytique, orienté vers les détails, résolveur de problèmes.</p>
+            <p>Capacités : Solides compétences en programmation, compréhension des algorithmes et des structures de données.</p>
+            <p>Information : Salaire médian (États-Unis) - 110 140 $ par an. Croissance prévue de l'emploi (États-Unis, 2020-2030) - 22 %.</p>
+        </div>
+
+        <!-- Repeat the above job div for other jobs -->
+        <h1>Top 10 Emplois STEM</h1>
+        <div class="job">
+            <h2>Scientifique des Données</h2>
+            <p>Préférences de personnalité : Analytique, penseur logique, curieux.
+            </p>
+            <p>Capacités : Maîtrise de l'analyse statistique, des techniques d'apprentissage automatique et de la visualisation des données.
+            </p>
+            <p>Information : Salaire médian (États-Unis) - 98 230 $ par an. Croissance prévue de l'emploi (États-Unis, 2020-2030) - 31 %.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
